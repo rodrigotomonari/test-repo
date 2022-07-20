@@ -1,3 +1,3 @@
 # This is a test project
 
-Project readme
+This project is used to test GitLab's importer
